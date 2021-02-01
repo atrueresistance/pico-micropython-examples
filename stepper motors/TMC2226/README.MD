@@ -7,4 +7,4 @@ Learning how to wire a stepper directly to pico. I found a circuit python exampl
 - Raspberry Pi Pico
 
 ## Wiring
-<![schematic](diagram.png)
+![schematic](diagram.png)
