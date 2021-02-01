@@ -5,4 +5,4 @@
 - Raspberry Pi Pico
 
 ## Wiring
-![schematic] (diagram.png)
+<![schematic](diagram.png)
