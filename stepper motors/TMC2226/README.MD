@@ -7,4 +7,6 @@ Learning how to wire a stepper directly to pico. I found a circuit python exampl
 - Raspberry Pi Pico
 
 ## Wiring
+
+A1, A2, B1, and B2 are wired to a NEMA 17 motor.
 ![schematic](diagram.png)
